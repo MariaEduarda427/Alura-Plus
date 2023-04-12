@@ -1,0 +1,15 @@
+:root{
+    --branco-principal: #ffffff;
+    --preto-fundo: #00030C;
+    --azul-botão: #167dF7;
+    --cinza-letrinha: #c0c0c0;
+}
+
+body{
+    background-color: var(--preto-fundo);
+    color: var(--branco-principal);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
